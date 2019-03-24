@@ -1,0 +1,6 @@
+C:\Users\Адиль\source\repos\XMLHW\XMLHW2\bin\Debug\XMLHW2.exe.config
+C:\Users\Адиль\source\repos\XMLHW\XMLHW2\bin\Debug\XMLHW2.exe
+C:\Users\Адиль\source\repos\XMLHW\XMLHW2\bin\Debug\XMLHW2.pdb
+C:\Users\Адиль\source\repos\XMLHW\XMLHW2\obj\Debug\XMLHW2.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\XMLHW\XMLHW2\obj\Debug\XMLHW2.exe
+C:\Users\Адиль\source\repos\XMLHW\XMLHW2\obj\Debug\XMLHW2.pdb

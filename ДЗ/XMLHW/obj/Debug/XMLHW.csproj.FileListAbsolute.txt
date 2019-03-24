@@ -1,0 +1,7 @@
+C:\Users\Адиль\source\repos\XMLHW\XMLHW\obj\Debug\XMLHW.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\XMLHW\XMLHW\obj\Debug\XMLHW.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\XMLHW\XMLHW\bin\Debug\XMLHW.exe.config
+C:\Users\Адиль\source\repos\XMLHW\XMLHW\bin\Debug\XMLHW.exe
+C:\Users\Адиль\source\repos\XMLHW\XMLHW\bin\Debug\XMLHW.pdb
+C:\Users\Адиль\source\repos\XMLHW\XMLHW\obj\Debug\XMLHW.exe
+C:\Users\Адиль\source\repos\XMLHW\XMLHW\obj\Debug\XMLHW.pdb

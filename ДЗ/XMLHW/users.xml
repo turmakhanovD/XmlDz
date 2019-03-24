@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <user name="Скидан Олег">
+    <company>КА ШАГ</company>
+    <age>48</age>
+  </user>
+  <user name="Земцев Андрей">
+    <company>КА ШАГ</company>
+    <age>42</age>
+  </user>
+</users>
